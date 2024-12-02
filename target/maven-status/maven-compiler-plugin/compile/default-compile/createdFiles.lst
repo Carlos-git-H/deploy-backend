@@ -1,0 +1,3 @@
+com\example\back\BackApplication.class
+com\example\back\Config\CorsConfig.class
+com\example\back\Config\RestTemplateConfig.class
